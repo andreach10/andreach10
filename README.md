@@ -32,7 +32,7 @@ This is a place where **I try new stuff**
 
 - 💰 &nbsp;I’m currently working on my financial automation
 - 💬 &nbsp;**I looove being a begginer. I know I can learn *everything* I want.**
-- ✨ &nbsp;I have 3 hobbies right now: ceramics, calisthenics, dancing salsa.
+- ✨ &nbsp;I have 3 hobbies right now: ceramics, calisthenics, plants adict.
 - 🎨🖌️🌿✨🎧 &nbsp;Fun fact: I have had MANY hobbies: carpentry, lettering, capoeira, knitting, glass painting.
 
 ---
