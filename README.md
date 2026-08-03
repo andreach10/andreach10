@@ -24,14 +24,13 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="30" /> About Me
 
-I'm a data analyst with a background in **Psychology + Economics**, which means I don't just look at numbers, I (try to) understand the people behind them.
+I'm a data analyst with a background in **Psychology + Economics**, which means I don't just look at numbers, I understand the people behind them.
 
-Currently building bridges between consumer research and data analysis. I automate pipelines in R, model data in PostgreSQL, visualize in Looker/PowerBI
+Currently analyzing real estate data. I automate pipelines in R, model data in PostgreSQL, visualize in Looker/PowerBI
 
 This is a place where **I try new stuff**
 
 - 💰 &nbsp;I’m currently working on my financial automation
-- ⚙️ &nbsp;I’m learning Data Engineer tools
 - 💬 &nbsp;**I looove being a begginer. I know I can learn *everything* I want.**
 - ✨ &nbsp;I have 3 hobbies right now: ceramics, calisthenics, dancing salsa.
 - 🎨🖌️🌿✨🎧 &nbsp;Fun fact: I have had MANY hobbies: carpentry, lettering, capoeira, knitting, glass painting.
