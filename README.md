@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" />
   </h1>
   <p>
-    <em>Data Analyst at <a href="[https://udpapp.com](https://udpapp.com/)/">UDP</a></em>
+    <em>Data Analyst at <a href="[https://udpapp.com]/">UDP</a></em>
   </p>
 
   <p align="center">
